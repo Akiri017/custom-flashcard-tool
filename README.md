@@ -10,7 +10,7 @@ A Java-based flashcard tool to create, review, and upload custom question banks.
 ## How to Run
 1. Ensure **Java 17+** is installed.
 2. Clone the repository: https://github.com/Akiri017/custom-flashcard-tool.git
-3. Compile and Run: javac CustomFlascard.java java CustomFlashcard
+3. Compile and Run: javac customFlascard.java java customFlashcard
 
 ## Future Plans
 - [ ] GUI for easier flashcard navigation  
